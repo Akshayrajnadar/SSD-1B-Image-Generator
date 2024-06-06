@@ -11,7 +11,7 @@ o	Users can easily select their preferred format before generating the image, en
 4.	Download Button:
 o	Equipped with a convenient download button that allows users to easily save their generated images.
 o	Ensures a hassle-free experience by enabling direct downloads without the need for additional steps or software.
-User Experience:
+#User Experience:
 •	Interactive Interface: The Gradio-based interface is designed to be intuitive and responsive, allowing users to interact with the model parameters and instantly view the generated images.
 •	Customization Options: Users can experiment with different settings to customize their images, making the tool versatile for various creative and professional purposes.
 •	Ease of Use: The straightforward design means that even users with no technical background can quickly learn to generate and download high-quality images.
