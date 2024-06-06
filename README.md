@@ -1,3 +1,16 @@
+---
+title: SSD 1B
+emoji: 🖼
+colorFrom: purple
+colorTo: red
+sdk: gradio
+sdk_version: 4.26.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 The SSD-1B Model Image Generator is an advanced, user-friendly tool designed to streamline the process of generating high-quality images using cutting-edge machine learning techniques. Leveraging the power of the SSD-1B model, this image generator offers a seamless and intuitive experience for users of all skill levels.
 
 Key Features:
@@ -23,17 +36,3 @@ User Experience:
 3.Research and Development: Provides a valuable tool for researchers in the field of AI and machine learning to explore the capabilities of the SSD-1B model.
 
 The SSD-1B Model Image Generator, with its robust features and user-centric design, stands out as a premier tool for generating and downloading high-quality images effortlessly. Whether for personal, professional, or research purposes, this tool offers a powerful solution for all your image generation needs.
-
-
----
-title: SSD 1B
-emoji: 🖼
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 4.26.0
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
