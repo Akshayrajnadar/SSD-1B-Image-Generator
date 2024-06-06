@@ -12,14 +12,14 @@ o	Users can easily select their preferred format before generating the image, en
 o	Equipped with a convenient download button that allows users to easily save their generated images.
 o	Ensures a hassle-free experience by enabling direct downloads without the need for additional steps or software.
 
-##User Experience:
-•	Interactive Interface: The Gradio-based interface is designed to be intuitive and responsive, allowing users to interact with the model parameters and instantly view the generated images.
-•	Customization Options: Users can experiment with different settings to customize their images, making the tool versatile for various creative and professional purposes.
-•	Ease of Use: The straightforward design means that even users with no technical background can quickly learn to generate and download high-quality images.
+#User Experience:
+o	Interactive Interface: The Gradio-based interface is designed to be intuitive and responsive, allowing users to interact with the model parameters and instantly view the generated images.
+o	Customization Options: Users can experiment with different settings to customize their images, making the tool versatile for various creative and professional purposes.
+o	Ease of Use: The straightforward design means that even users with no technical background can quickly learn to generate and download high-quality images.
 ##Applications:
-•	Creative Projects: Ideal for artists, designers, and content creators looking to produce unique visuals.
-•	Marketing and Advertising: Can be used to generate custom images for campaigns, social media, and promotional materials.
-•	Research and Development: Provides a valuable tool for researchers in the field of AI and machine learning to explore the capabilities of the SSD-1B model.
+o	Creative Projects: Ideal for artists, designers, and content creators looking to produce unique visuals.
+o	Marketing and Advertising: Can be used to generate custom images for campaigns, social media, and promotional materials.
+o	Research and Development: Provides a valuable tool for researchers in the field of AI and machine learning to explore the capabilities of the SSD-1B model.
 The SSD-1B Model Image Generator, with its robust features and user-centric design, stands out as a premier tool for generating and downloading high-quality images effortlessly. Whether for personal, professional, or research purposes, this tool offers a powerful solution for all your image generation needs.
 
 
